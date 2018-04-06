@@ -3,7 +3,7 @@
 ;; Filename: help-fns+.el
 ;; Description: Extensions to `help-fns.el'.
 ;; Author: Drew Adams
-;; Maintainer: Drew Adams (concat "drew.adams" "@" "oracle" ".com")
+;; Maintainer: Drew Adams (concat "drew.adams" "<at>" "oracle" ".com")
 ;; Copyright (C) 2007-2018, Drew Adams, all rights reserved.
 ;; Created: Sat Sep 01 11:01:42 2007
 ;; Version: 0
